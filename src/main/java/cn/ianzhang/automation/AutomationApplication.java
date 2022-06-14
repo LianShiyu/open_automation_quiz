@@ -1,5 +1,6 @@
 package cn.ianzhang.automation;
 
+import org.openqa.selenium.WebDriver;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
